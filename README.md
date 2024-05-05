@@ -1,2 +1,2 @@
-# Apple_stock_predication_using_LSTM-GRU-ARIMA
+# Apple_stock_predication_using_RNN
 Machine learning project using RNN
