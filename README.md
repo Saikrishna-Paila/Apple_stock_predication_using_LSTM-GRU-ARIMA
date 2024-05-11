@@ -1,5 +1,7 @@
 
 ## Team 4: Apple Stock Prediction
+## Kaggle Link: https://www.kaggle.com/code/saikrishnapaila/apple-stock-prediction-using-rnn
+
 
 ### Members
 - Saikrishna Paila - G39129775
