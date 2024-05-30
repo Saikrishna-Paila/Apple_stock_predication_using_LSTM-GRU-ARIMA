@@ -1,5 +1,5 @@
 
-## Team 4: Apple Stock Prediction
+## Apple Stock Prediction
 ## Kaggle Link: https://www.kaggle.com/code/saikrishnapaila/apple-stock-prediction-using-rnn
 
 
