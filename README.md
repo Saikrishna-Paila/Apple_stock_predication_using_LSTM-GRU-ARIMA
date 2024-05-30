@@ -4,8 +4,7 @@
 
 
 ### Members
-- Saikrishna Paila - G39129775
-- Siddharth Nadadhur - G32021287
+- Saikrishna Paila
 
 ### Abstract
 This project provides an in-depth analysis and time series forecasting model for Apple Inc.'s stock prices from July 1985, spanning 9765 trading days. The dataset includes pivotal moments such as iPhone and MacBook releases, showcasing Apple's innovative edge and market strategy. Our objective is to predict the closing stock price using a robust set of models and to assess the impact of major product launches and other significant corporate events on stock performance.
